@@ -130,3 +130,4 @@ Placement Management System
 
 This project is created for educational purposes.
 ```
+Output WEB LINK:[**https://ksureka.github.io/Placement-Management-System/**](https://ksureka.github.io/Placement-Management-System/)   
